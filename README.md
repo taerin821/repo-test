@@ -18,7 +18,7 @@ github 연동 연습 pull push
 ## Navigation
 1. [How to Use](#how-to-use)
 2. [Types](#types)
-3. [Color](#깃허브 연동 및 원격 등록)
+3. [깃허브 연동 및 원격 등록](#깃허브 연동 및 원격 등록)
 4. [Custom Color List](#서버 전송)
 5. [Section](#자동으로 내려받기)
 6. [Reversal](#수동으로 내려받기)
@@ -26,7 +26,7 @@ github 연동 연습 pull push
 8. [Text](#text)
 
 
-## 사용 예제
+## 깃허브 연동 및 원격 등록
 
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
 
