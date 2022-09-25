@@ -18,11 +18,11 @@ github 연동 연습 pull push
 ## Navigation
 1. [How to Use](#how-to-use)
 2. [Types](#types)
-3. [Color](#color)
-4. [Custom Color List](#custom-color-list)
-5. [Section](#section)
-6. [Reversal](#reversal)
-7. [Height](#height)
+3. [Color](#깃허브 연동 및 원격 등록)
+4. [Custom Color List](#서버 전송)
+5. [Section](#자동으로 내려받기)
+6. [Reversal](#수동으로 내려받기)
+7. [Height](#순서)
 8. [Text](#text)
 
 
